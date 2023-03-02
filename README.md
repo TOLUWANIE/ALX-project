@@ -1,2 +1,4 @@
 # ALX-project
-my firstrepository on GitHub
+My first repository on GitHub
+
+I love :tea: :hamburger:, and :guitar:.
